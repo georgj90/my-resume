@@ -1,23 +1,20 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
-    "avatar": "avatar.jpg",
+    "name": "Jorge Garcia",
+    "occupation": "xxxxxxx",
+    "location": "Somewhere, PE",
+    "avatar": "jorge.jpg",
     "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "email": "jorge.garcia@gmail.com",
+    "telephone": "+49 11 222 333",
+    "website": "https://jorge-garcia.dev",
     "skills": [
         "HTML",
         "CSS",
-        "Javascript / ES6",
-        "UI Design",
-        "React",
         "Git"
     ],
     "languages": [
         {
-            "name": "English",
+            "name": "Spanish",
             "level": "native"
         },
         {
@@ -25,19 +22,19 @@
             "level": "fluent"
         },
         {
-            "name": "French",
-            "level": "basic"
+            "name": "English",
+            "level": "Advanced"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@georgj90",
+            "url": "https://github.com/georgj90"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
+            "user": "Jorge Garcia",
             "url": "https://www.linkedin.com/in/annaquincey"
         }
     ]
